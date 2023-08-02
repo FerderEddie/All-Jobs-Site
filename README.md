@@ -1,7 +1,7 @@
 # All-Jobs-Site
-a site that i made for searching jobs.
+a website for searching jobs.
 
-i used bootstrap 5 as well.
+used bootstrap 5 as well.
 
 
 you can look for jobs by categories,free search, or browse all jobs,
