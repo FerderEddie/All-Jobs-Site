@@ -1,11 +1,20 @@
 # All-Jobs-Site
-a website for searching jobs.
 
-you can look for jobs by categories,free search, or browse all jobs,
-as well you can save jobs and see them later on favorites page.
 
-Made with HTML, CSS, JS and bootstrap 5.
+**Explore job listings by categories, use free search, or browse all jobs. Save and revisit your favorite jobs on the favorites page.**
 
-![home](https://user-images.githubusercontent.com/110486605/218167281-15d4ce86-419f-4cb9-978f-b19ebaae00b8.png)
-![jobs](https://user-images.githubusercontent.com/110486605/218167305-23da6766-c99b-457c-a875-145601cebf34.png)
-![favorites](https://user-images.githubusercontent.com/110486605/218167342-8b108904-386a-4997-9c9a-3b8211fe317c.png)
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+
+## Screenshots
+
+![Home](https://user-images.githubusercontent.com/110486605/218167281-15d4ce86-419f-4cb9-978f-b19ebaae00b8.png)
+
+![Jobs](https://user-images.githubusercontent.com/110486605/218167305-23da6766-c99b-457c-a875-145601cebf34.png)
+
+![Favorites](https://user-images.githubusercontent.com/110486605/218167342-8b108904-386a-4997-9c9a-3b8211fe317c.png)
+
