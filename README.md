@@ -15,8 +15,13 @@ https://ferdereddie.github.io/All_Jobs_Clone/
 
 ## Screenshots
 
-![Home](https://user-images.githubusercontent.com/110486605/218167281-15d4ce86-419f-4cb9-978f-b19ebaae00b8.png)
+  
+![Screenshot 2023-10-01 181136](https://github.com/FerderEddie/All_Jobs_Clone/assets/110486605/2c8e2ab2-3f16-4fd8-adcb-b2da47961982)
 
-![Jobs](https://user-images.githubusercontent.com/110486605/218167305-23da6766-c99b-457c-a875-145601cebf34.png)
+<br>
 
-![Favorites](https://user-images.githubusercontent.com/110486605/218167342-8b108904-386a-4997-9c9a-3b8211fe317c.png) 
+![Screenshot 2023-10-01 181333](https://github.com/FerderEddie/All_Jobs_Clone/assets/110486605/f80bc93e-f125-4875-bb7a-a7b59bef241f)
+
+<br>
+
+![Screenshot 2023-10-01 181354](https://github.com/FerderEddie/All_Jobs_Clone/assets/110486605/30209a7f-e3b2-4a6f-ab30-8a6e7c1d1fc0)
