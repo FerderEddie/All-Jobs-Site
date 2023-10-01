@@ -137,9 +137,9 @@ html {
     text-transform: capitalize;
     display: flex;
     flex-wrap: wrap;
-    gap: 2.5rem;
+    gap: 1rem;
     place-content: center;
-    margin-top: 6rem;
+    margin-top: 4rem;
   }
 
   .hidden {
@@ -178,7 +178,25 @@ html {
     width: 85%;
     margin-top: 1rem;
     padding: 1em;
-    gap: 1.5rem;
+    gap: 1rem;
+  }
+
+  .cardDes {
+    overflow-y: scroll;
+  }
+
+  .cardDes::-webkit-scrollbar {
+    width: 5px;
+    min-height: 15px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb {
+    background: #145af2;
+    border-radius: 4px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb:hover {
+    background: #a71d31;
   }
 
   .buttonsDiv {
@@ -414,9 +432,8 @@ html {
     text-transform: capitalize;
     display: flex;
     flex-wrap: wrap;
-    gap: 2.5rem;
     place-content: center;
-    margin-top: 3rem;
+    margin-top: 4rem;
   }
 
   .hidden {
@@ -453,9 +470,27 @@ html {
 
   .card {
     width: 25rem;
-    margin-top: 4rem;
+    margin-top: 2rem;
     padding: 1em;
     gap: 2rem;
+  }
+
+  .cardDes {
+    overflow-y: scroll;
+  }
+
+  .cardDes::-webkit-scrollbar {
+    width: 5px;
+    min-height: 15px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb {
+    background: #145af2;
+    border-radius: 4px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb:hover {
+    background: #a71d31;
   }
 
   .titleDiv {
@@ -686,7 +721,6 @@ html {
     text-transform: capitalize;
   }
 
-
   .homeCon {
     text-align: center;
     text-transform: capitalize;
@@ -742,6 +776,24 @@ html {
     width: 50%;
     padding: 1em;
     gap: 2rem;
+  }
+
+  .cardDes {
+    overflow-y: scroll;
+  }
+
+  .cardDes::-webkit-scrollbar {
+    width: 5px;
+    min-height: 15px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb {
+    background: #145af2;
+    border-radius: 4px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb:hover {
+    background: #a71d31;
   }
 
   .titleDiv {
@@ -987,9 +1039,9 @@ html {
     text-transform: capitalize;
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 4rem;
     place-content: center;
-    margin-top: 4rem;
+    margin-top: 7rem;
   }
 
   .hidden {
@@ -1026,9 +1078,26 @@ html {
 
   .card {
     width: 23.7rem;
-    margin-top: 4rem;
     padding: 1em;
     gap: 2rem;
+  }
+
+  .cardDes {
+    overflow-y: scroll;
+  }
+
+  .cardDes::-webkit-scrollbar {
+    width: 5px;
+    min-height: 15px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb {
+    background: #145af2;
+    border-radius: 4px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb:hover {
+    background: #a71d31;
   }
 
   .titleDiv {
@@ -1260,11 +1329,9 @@ html {
     text-transform: capitalize;
   }
 
-  
   .d-flex {
     padding-block: 4px;
   }
-
 
   .homeCon {
     text-align: center;
@@ -1281,9 +1348,9 @@ html {
     text-transform: capitalize;
     display: flex;
     flex-wrap: wrap;
-    gap: 7rem;
+    gap: 2.5rem;
     place-content: center;
-    margin-top: 4rem;
+    margin-top: 7rem;
   }
 
   .hidden {
@@ -1312,9 +1379,25 @@ html {
 
   .card {
     width: 25rem;
-    margin-top: 2rem;
     padding: 1em;
-    gap: 2rem;
+  }
+
+  .cardDes {
+    overflow-y: scroll;
+  }
+
+  .cardDes::-webkit-scrollbar {
+    width: 5px;
+    min-height: 15px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb {
+    background: #145af2;
+    border-radius: 4px;
+  }
+
+  .cardDes::-webkit-scrollbar-thumb:hover {
+    background: #a71d31;
   }
 
   .titleDiv {
