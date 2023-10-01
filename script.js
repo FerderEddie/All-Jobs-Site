@@ -1,7 +1,7 @@
 //*? ----------------------------------------IMPORTS,LOCAL_STORAGE,ELEMENTS FROM HTML---------------------------------------------------------------
 
 // import LS & class
-import {saveInLs,loadFromLs} from "../LS/ls.js"
+import {saveInLs,loadFromLs} from "./ls.js"
 
 // init jobs array
 let jobsData = loadFromLs("saved_jobs") ? loadFromLs("saved_jobs") : []
