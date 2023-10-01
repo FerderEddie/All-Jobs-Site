@@ -10,8 +10,8 @@
 - JavaScript
 - Bootstrap 5
 
-  ## Link
-    https://ferdereddie.github.io/All_Jobs_Clone/
+## Link
+https://ferdereddie.github.io/All_Jobs_Clone/
 
 ## Screenshots
 
