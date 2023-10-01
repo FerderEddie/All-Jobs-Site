@@ -91,20 +91,6 @@ html {
   font-size: 1rem;
 }
 
-/* ------------------------------------------------------------------------------------------------------------------------- */
-
-/* fonts styles - FOR THE FONTS FOR ELEMENTS IN THE DOCUMENT */
-
-/* styles */
-
-/* --------------------------------------------------- */
-
-/* global styles - FOR THINGS THAT COMMON TO ALL DEVICES */
-
-/* styles */
-
-/* --------------------------------------------------- */
-
 /* _____________________________________________________MEDIA_QUERY_________________________________________________ */
 
 /* portrait mobile */
@@ -156,6 +142,7 @@ html {
     margin-top: 6rem;
     font-weight: 700;
     width: 80%;
+    font-size: 25px;
   }
 
   .title_div > p {
@@ -163,6 +150,11 @@ html {
     font-weight: 500;
     margin-top: 2rem;
     width: 80%;
+    font-size: 20px;
+  }
+
+  .savedJob_p {
+    margin-top: 6em;
   }
 
   .time_div {
@@ -187,7 +179,7 @@ html {
 
   .cardDes::-webkit-scrollbar {
     width: 5px;
-    min-height: 15px;
+    height: 5px;
   }
 
   .cardDes::-webkit-scrollbar-thumb {
@@ -403,7 +395,6 @@ html {
       transform: translate(100%, 100%);
     }
   }
-  /* loader */
 }
 
 /* ________________ */
@@ -450,6 +441,7 @@ html {
     margin-top: 6rem;
     font-weight: 700;
     width: 80%;
+    font-size: 25px;
   }
 
   .title_div > p {
@@ -457,6 +449,7 @@ html {
     font-weight: 500;
     margin-top: 2rem;
     width: 80%;
+    font-size: 20px;
   }
 
   .time_div {
@@ -754,6 +747,7 @@ html {
     margin-top: 8rem;
     font-weight: 700;
     width: 80%;
+    font-size: 25px;
   }
 
   .title_div > p {
@@ -761,13 +755,14 @@ html {
     font-weight: 500;
     margin-top: 2rem;
     width: 80%;
+    font-size: 20px;
   }
 
   .time_div {
     color: whitesmoke;
     width: fit-content;
     margin: 0 auto;
-    font-size: 1em;
+    font-size: 0.9em;
     background-color: #3f0d12;
     background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
   }
@@ -1058,6 +1053,7 @@ html {
     margin-top: 8rem;
     font-weight: 700;
     width: 80%;
+    font-size: 28px;
   }
 
   .title_div > p {
@@ -1065,13 +1061,14 @@ html {
     font-weight: 500;
     margin-top: 2rem;
     width: 80%;
+    font-size: 22px;
   }
 
   .time_div {
     color: whitesmoke;
     width: fit-content;
     margin: 0 auto;
-    font-size: 1.2em;
+    font-size: 1em;
     background-color: #3f0d12;
     background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
   }
@@ -1360,19 +1357,21 @@ html {
   .title_div > h1 {
     font-weight: 700;
     margin-top: 5rem;
+    font-size: 30px;
   }
 
   .title_div > p {
     font-size: x-large;
     font-weight: 500;
     margin-top: 2rem;
+    font-size: 22px;
   }
 
   .time_div {
     color: whitesmoke;
     width: fit-content;
     margin: 0 auto;
-    font-size: 1.3em;
+    font-size: 1em;
     background-color: #3f0d12;
     background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);
   }
@@ -1618,13 +1617,5 @@ html {
   }
   /* loader */
 }
-
-/* amazing gradinet colors */
-
-/* background-color: #2a2a72;
-background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
-
-background-color: #3f0d12;
-background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%); */
 
 /* ________________________________ */

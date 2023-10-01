@@ -118,11 +118,13 @@ const buildCard = (obj) => {
   title.textContent = obj.title;
 
   const salary = document.createElement("p");
-  salary.textContent = `salary: ${obj.salary}`;
+  salary.textContent = `salary: ${obj.salary ? obj.salary : "not mentioned"}`;
+  salary.style = "padding-block:1em;";
+
 
   const description = document.createElement("div");
   description.setAttribute("class", "cardDes");
-  description.style = "max-height:16rem;padding:1em";
+  description.style = "max-height:16rem;padding-inline:1.5em";
   description.innerHTML = obj.description;
 
   // see job btn
