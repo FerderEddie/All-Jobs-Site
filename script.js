@@ -110,7 +110,7 @@ const buildCard = (obj) => {
 
   const img = document.createElement("img");
   img.src = obj.company_logo;
-  img.style = "padding-block:1.5em;"
+  img.style = "padding-block:1.5em;";
 
   const title = document.createElement("h2");
   title.setAttribute("class", "titleDiv");
@@ -120,7 +120,6 @@ const buildCard = (obj) => {
   const salary = document.createElement("p");
   salary.textContent = `salary: ${obj.salary ? obj.salary : "not mentioned"}`;
   salary.style = "padding-block:1em;";
-
 
   const description = document.createElement("div");
   description.setAttribute("class", "cardDes");
@@ -338,6 +337,7 @@ const buildSaved_card = (obj) => {
 
   const img = document.createElement("img");
   img.src = obj.company_logo;
+  img.style = "padding-block:1.5em;";
 
   const title = document.createElement("h2");
   title.setAttribute("class", "titleDiv");
@@ -345,11 +345,13 @@ const buildSaved_card = (obj) => {
   title.textContent = obj.title;
 
   const salary = document.createElement("p");
-  salary.textContent = `salary: ${obj.salary}`;
+  salary.textContent = `salary: ${obj.salary ? obj.salary : "not mentioned"}`;
+  salary.style = "padding-block:1em;";
 
   const description = document.createElement("div");
+  description.setAttribute("class", "cardDes");
+  description.style = "max-height:16rem;padding-inline:1.5em";
   description.innerHTML = obj.description;
-  description.style = "overflow:scroll;max-height:16rem";
 
   const buttonsDiv = document.createElement("div");
   buttonsDiv.setAttribute("class", "buttonsDiv");
