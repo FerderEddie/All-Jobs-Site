@@ -110,7 +110,7 @@ const buildCard = (obj) => {
 
   const img = document.createElement("img");
   img.src = obj.company_logo;
-  img.style = "padding-block:1.5em;";
+  img.style = "padding-block:1.5em;width:80px;height:auto;";
 
   const title = document.createElement("h2");
   title.setAttribute("class", "titleDiv");
@@ -337,7 +337,7 @@ const buildSaved_card = (obj) => {
 
   const img = document.createElement("img");
   img.src = obj.company_logo;
-  img.style = "padding-block:1.5em;";
+  img.style = "padding-block:1.5em;width:80px;height:auto;";
 
   const title = document.createElement("h2");
   title.setAttribute("class", "titleDiv");
